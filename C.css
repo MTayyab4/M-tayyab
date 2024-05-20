@@ -291,6 +291,7 @@ button[type="submit"]:hover {
   background-color: #0056b3;
 }
 
+body{
 .qr-code {
   max-width: 300px;
   margin: 50px auto;
@@ -308,4 +309,5 @@ button[type="submit"]:hover {
 .qr-code p {
   font-size: 16px;
   color: #666;
+}
 }
