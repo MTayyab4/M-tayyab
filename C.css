@@ -290,3 +290,22 @@ button[type="submit"] {
 button[type="submit"]:hover {
   background-color: #0056b3;
 }
+
+.qr-code {
+  max-width: 300px;
+  margin: 50px auto;
+  text-align: center;
+}
+
+.qr-code img {
+  width: 100%;
+  max-width: 200px;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+.qr-code p {
+  font-size: 16px;
+  color: #666;
+}
